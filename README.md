@@ -7,5 +7,5 @@ To run the Stock Management System
 4. Then Extract the files in XAMPP C: -> xampp -> htdocs -> Create folder name " simplestock "
 5. then open your browser go to http://localhost/phpmyadmin and create database, then import the db-test.sql on simplestock folder
 6. after the import, go to new tab of browser and type http://localhost/simplestock/
-7. User and Password: admin / admin
+7. User and Password: admin / password
 
